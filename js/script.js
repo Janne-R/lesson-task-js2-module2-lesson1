@@ -1,4 +1,4 @@
-const games = [
+export const games = [
     { id: 324, name: "Great game", rating: 5.0 },
     { id: 124, name: "Ok game", rating: 3.0 },
     { id: 678, name: "Meh game", rating: 2.5 },
